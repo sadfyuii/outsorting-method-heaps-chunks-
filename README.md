@@ -99,7 +99,7 @@ Algorithm: **Custom heap-based external sort**
 - **[Issues.md](Issues.md)** - Bug reporting guidelines and feedback forms
 - **[LICENSEmd](LICENSEmd)** - License terms and usage rights
 - **[outsort.py](outsort.py)** - Main application source code
-- **[requirements.txt](requirements.txt)** - Dependency requirements
+- **[Discussions.md](Discussions.md)** - Discussions
 
 
 ## 👤 Authors
