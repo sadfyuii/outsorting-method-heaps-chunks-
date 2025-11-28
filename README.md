@@ -114,6 +114,14 @@ Algorithm: **Custom heap-based external sort**
 - 📝 Technical Writer
 - 🧪 Tester
 
+### 🎓 Project Lead & Developer
+**Alekseychuk Ilya Alekseevich**  
+📧 Email: [iliko.horolskiy@gamil.com](iliko.horolskiy@gamil.com)  
+🎯 Roles: 
+- 🧠 Second Algorithm Developer
+- 🧪 Second Tester
+
+
 ## 📞 Feedback
 
 ### 🔧 Support Channels
