@@ -29,16 +29,16 @@ bash
 python outsort.py
 
 
-### Technical requirements
+## 🛠️ Technical Requirements
 
-Programming language: Python 3.8+
-Operating systems: Windows 10+, Linux Ubuntu 18.04+, macOS 10.14+
+### 💻 System Requirements
+- **Programming language:** Python 3.8+
+- **Operating systems:** Windows 10+, Linux Ubuntu 18.04+, macOS 10.14+
 
-### Key dependencies:
-matplotlib >= 3.5.0
-numpy >= 1.21.0
-
-Recommended specifications: 2GB RAM, 100MB free space
+### 📦 Key Dependencies
+```python
+matplotlib >= 3.5.0    # Data visualization and plotting
+numpy >= 1.21.0        # Numerical computations and array handling
 
 
 ### Algorithm of operation
