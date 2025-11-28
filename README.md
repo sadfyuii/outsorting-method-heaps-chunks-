@@ -117,7 +117,7 @@ Algorithm: **Custom heap-based external sort**
 ## 👤 So-Authors
 
 ### 🎓 Second Project Lead & Developer
-**Alekseychuk Ilya Alekseevich**  
+**Xorolskiy Ilya Alekseevich**  
 📧 Email: [iliko.horolskiy@gamil.com](iliko.horolskiy@gamil.com)  
 🎯 Roles: 
 - 🧠 Second Algorithm Developer
