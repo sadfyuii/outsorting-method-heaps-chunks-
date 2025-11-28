@@ -1,0 +1,8 @@
+### The program will prompt you to select a mode:
+Enter '1' for the full version with graphs
+Enter '2' for the simplified console version
+
+### Output example:
+
+
+
