@@ -1,0 +1,4 @@
+
+! pip install heapq
+! pip install matplotlib
+! pip install numpy 
