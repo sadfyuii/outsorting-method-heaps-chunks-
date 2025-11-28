@@ -93,10 +93,52 @@ Welcome to the External Sort Visualizer discussions! This is the place to ask qu
 
 ## 🚀 Starting a New Discussion
 
-### Choose the Right Category
-1. **Browse existing discussions** to avoid duplicates
-2. **Select the most relevant category** for your topic
-3. **Use a clear, descriptive title**
+## 📋 Feedback Forms
+
+We have dedicated forms to streamline different types of feedback:
+
+### 💡 Ideas & Suggestions Form
+**[Click here to submit feature requests and ideas](https://forms.yandex.ru/u/6929da28eb614645129008cc)**
+
+**Use this form for:**
+- 🚀 New feature proposals
+- 🎨 User interface improvements
+- ⚡ Algorithm enhancements
+- 📚 Educational content suggestions
+- 💎 General project feedback
+
+### 🐛 Bug Report Form
+**[Click here to report bugs and issues](https://forms.yandex.ru/u/6929d32beb61464455900926)**
+
+**Use this form for:**
+- ❌ Program crashes and errors
+- 📊 Visualization problems
+- 🔧 Installation issues
+- ⚡ Performance concerns
+
+---
+
+## 📞 Getting Help
+
+### Quick Questions
+- **Check the [README.md](README.md)** for basic usage
+- **Search existing discussions** for similar questions
+- **Use the Q&A category** for specific issues
+
+### Urgent Issues
+- **Critical bugs**: Use the Bug Report Form above
+- **Security concerns**: Email [pmdworking@yandex.ru](mailto:pmdworking@yandex.ru)
+- **Installation problems**: Include your environment details
+
+### Connect with Developers
+- **Project maintainer**: Grinev Makar
+- **Email**: [pmdworking@yandex.ru](mailto:pmdworking@yandex.ru)
+- **Response time**: Usually within 24-48 hours
+
+
+*Last updated: November 2025*  
+*Discussion participation helps prioritize new features*  
+*Community-driven development in action*
 
 ### Provide Context
 ```markdown
