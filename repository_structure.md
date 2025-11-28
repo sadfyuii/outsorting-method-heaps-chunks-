@@ -3,7 +3,6 @@
 
 ### 🎯 Core Application
 - **`outsort.py`** - Main Python script containing the external sort algorithm implementation with visualization
-- **`requirements.txt`** - Python dependencies (matplotlib, numpy)
 
 ### 📚 Documentation
 - **`README.md`** - Comprehensive project documentation, installation guide, and usage examples
