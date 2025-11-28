@@ -71,6 +71,26 @@ numpy >= 1.21.0        # Numerical computations and array handling
 - **⚖️ Stability:** Maintains relative order of equal elements
 - **🚀 Efficiency:** Optimal for large datasets that don't fit in memory
 
+### 📊 Algorithm Workflow
+![Algorithm Diagram](diagram.jpg)  
+*Visual representation of the external sorting algorithm workflow showing data chunking, heap construction, and merging phases*
+
+### 📈 Final Results
+![Sorting Results](result.jpg)  
+*Comparison between initial unsorted data and final sorted output demonstrating algorithm effectiveness*
+
+### 💻 Console Version
+![Console Interface](simple_var.jpg)  
+*Command-line interface demonstration showing step-by-step sorting process in console mode*
+
+## 🔗 Quick Navigation
+
+- **[README.md](README.md)** - Full project documentation and usage guide
+- **[Issues.md](Issues.md)** - Bug reporting guidelines and feedback forms
+- **[LICENSEmd](LICENSEmd)** - License terms and usage rights
+- **[outsort.py](outsort.py)** - Main application source code
+- **[requirements.txt](requirements.txt)** - Dependency requirements
+
 
 ## 👤 Authors
 
