@@ -4,5 +4,17 @@ Enter '2' for the simplified console version
 
 ### Output example:
 
+Data generation...
+Generated data: [23, 45, 12, 67, 34, ...]
 
+Phase 1: Sorting chunks
+
+  Chunk 0 before sorting: [23, 45, 12, 67, 34]
+  Chunk 0 after sorting: [12, 23, 34, 45, 67]
+
+Phase 2: Merging chunks
+
+  Initializing the min-heap:
+    Added: 12 from chunk 0
+    Added: 8 from chunk 1
 
