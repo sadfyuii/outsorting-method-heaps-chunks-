@@ -88,11 +88,11 @@ numpy >= 1.21.0        # Numerical computations and array handling
 
 ### 🔧 Support Channels
 - **📧 Email:** [feedback@external-sort.com](mailto:feedback@external-sort.com)
-- **🐛 Bugs and Suggestions:** [GitHub Issues](/Issues)
-- **💬 Discussions:** [GitHub Discussions](/Discussions)
+- **🐛 Bugs and Suggestions:** [GitHub Issues](/Issues.md)
+- **💬 Discussions:** [GitHub Discussions](/Discussions.md)
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [GitHub LICENSE](/LICENSE) file for details.
 
 
 <div align="center">
