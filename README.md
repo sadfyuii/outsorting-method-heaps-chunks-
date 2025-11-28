@@ -105,7 +105,7 @@ Algorithm: **Custom heap-based external sort**
 ## 👤 Authors
 
 ### 🎓 Project Lead & Developer
-**Grinev Makar Dmitrievich**  
+**Pushkarev Makar Dmitrievich**  
 📧 Email: [pmdworking@yandex.ru](mailto:pmdworking@yandex.ru)  
 🎯 Roles: 
 - 🧠 Algorithm Developer
