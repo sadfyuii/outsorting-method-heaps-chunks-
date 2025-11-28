@@ -1,32 +1,32 @@
-🎯 External Sort Visualizer
+# 🎯 External Sort Visualizer
 
-1. Project Description
+## 📖 Project Description
 
-The External Sort Visualizer is an educational project that visually demonstrates the operation of the external sorting algorithm using a min-heap. The project is intended for students and developers studying algorithms and data structures.
+The **External Sort Visualizer** is an interactive educational tool designed to demonstrate the external sorting algorithm using a min-heap through comprehensive visualizations. This project serves as a valuable resource for computer science students, educators, and developers seeking to understand sorting algorithms and data structures through practical, visual examples.
 
-2. Main features:
-- 📊 Real-time visualization of the sorting process
-- 🎲 Generation of random data for demonstration
-- 🔢 Two modes of operation: with a graphical interface and console
-- 📈 Step-by-step animation of the algorithm
+### 🎯 Main Features
 
-3. Installation and launch
+- **📊 Real-time Visualization** - Watch the sorting process unfold with live graphical representations
+- **🎲 Dynamic Data Generation** - Generate random datasets of configurable sizes for varied demonstrations
+- **🔢 Dual Operation Modes** - Choose between full graphical interface or lightweight console version
+- **📈 Step-by-Step Animation** - Follow each algorithm step with detailed visual explanations
+- **🏗️ Min-Heap Operations** - Visualize heap construction and maintenance throughout the process
+- **📊 Performance Metrics** - Track algorithm efficiency and step-by-step progress
 
-3.3 Requirements
-- Python 3.8+
-- pip (package manager)
+## 🚀 Installation and Launch
 
-4. Installation steps
+### 🛠️ Requirements
 
-4.4 Clone the repository:
-```
+- **Programming Language:** Python 3.8 or higher
+- **Package Manager:** pip (Python package installer)
+- **Operating Systems:** Windows 10+, macOS 10.14+, or Linux Ubuntu 18.04+
+
+### 📦 Installation Steps
+
+#### 1. Clone the Repository
+```bash
 git clone https://github.com/sadfyuii/outsorting-method-heaps-chunks-.git
 cd outsorting-method-heaps-chunks-
-
-pip install -r requirements.txt
-bash
-
-python outsort.py
 ```
 
 ## 🛠️ Technical Requirements
