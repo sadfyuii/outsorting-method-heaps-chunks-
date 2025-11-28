@@ -4,6 +4,7 @@ outsorting-method-heaps-chunks/
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Documentation
 ├── images/                # Screenshots and demo images
-│ ├── demo1.png            # Example visualization
-│ └── workflow.png         # Algorithm diagram
-└── usage_examples.txt/    # Usage examples
+├── simple_var.jpg         # Example visualization
+├── diagram.jpg            # Algorithm diagram
+├── result.jpg             # Result visual
+└── usage_examples.txt     # Usage examples
