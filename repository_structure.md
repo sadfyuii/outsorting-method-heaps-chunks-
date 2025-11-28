@@ -1,25 +1,28 @@
 ## 📁 Repository Structure
+## 🏷️ File Descriptions
 
-**outsorting-method-heaps-chunks**/
-├── 🎯 **CORE APPLICATION**
-│ ├── 🐍 **outsort.py** # Main application entry point
-│
-├── 📚 **DOCUMENTATION & GUIDES**
-│ ├── 📖 **README.md** # Project overview & quick start
-│ ├── 💬 **Discussions.md** # Community discussions
-│ ├── 🐛 **Issues.md** # Bug reporting & support
-│ └── ⚖️ **LICENSE.md** # MIT License terms
-│
-├── 🎨 **VISUALIZATION ASSETS** 
-│ ├── 📊 **diagram.jpg**  # Algorithm workflow diagram
-│ ├── 📈 **result.jpg**  # Final sorting visualization
-│ ├── 🖥️ **simple_var.jpg**  # Console mode demonstration
-│
-├── 🔧 **DEVELOPMENT & EXAMPLES**
-│ ├── 📄**usage_examples** # Implementation examples
-│ └── 📄**repository_structure.md** # Project structure reference
-│
-└── 🎭 **OPERATION MODES**
-├── 📊 **Full Visualization Mode** # Graphical interface
-└── 💻 **Console Mode** # Lightweight terminal version
+### 🎯 Core Application
+- **`outsort.py`** - Main Python script containing the external sort algorithm implementation with visualization
+- **`requirements.txt`** - Python dependencies (matplotlib, numpy)
 
+### 📚 Documentation
+- **`README.md`** - Comprehensive project documentation, installation guide, and usage examples
+- **`Discussions.md`** - Community engagement guidelines and feedback forms
+- **`Issues.md`** - Bug reporting procedures and response timelines
+- **`LICENSE.md`** - MIT License terms and conditions
+
+### 🎨 Visualization Assets
+- **`diagram.jpg`** - Algorithm workflow and architecture diagram
+- **`result.jpg`** - Demonstration of final sorted output visualization
+- **`simple_var.jpg`** - Console mode interface screenshot
+
+### 🔧 Development Resources
+- **`repository_structure.md`** - Detailed project architecture documentation
+
+## 🔄 Project Organization
+
+The repository follows a modular structure:
+- **Separation of concerns** between code, docs, and assets
+- **Clear categorization** for easy navigation
+- **Educational focus** with comprehensive documentation
+- **Community-oriented** with dedicated discussion channels
