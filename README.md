@@ -25,7 +25,36 @@ cd outsorting-method-heaps-chunks-
 
 pip install -r requirements.txt
 bash
-pip install -r requirements.txt
-bash
+
 python outsort.py
+
+
+### Technical requirements
+
+Programming language: Python 3.8+
+Operating systems: Windows 10+, Linux Ubuntu 18.04+, macOS 10.14+
+
+### Key dependencies:
+matplotlib >= 3.5.0
+numpy >= 1.21.0
+
+Recommended specifications: 2GB RAM, 100MB free space
+
+
+### Algorithm of operation
+Data generation: Creating a random array of numbers
+Chunking: Splitting the data into sorted blocks
+Heap construction: Initializing the min-heap with the first elements of the chunks
+Merging: Sequentially extracting the minimum elements and adding them to the resulting array
+
+
+THE AUTHORS
+
+Grinev Makar (pmdworking@yandex.ru) - algorithm developer, project architect, visualization developer, technical writer, tester
+
+FEEDBACK
+
+📧 Email: feedback@external-sort.com
+🐛 Bugs and suggestions: /Issues
+💬 Discussions: /Discussions
 
