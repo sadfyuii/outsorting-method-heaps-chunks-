@@ -92,7 +92,7 @@ numpy >= 1.21.0        # Numerical computations and array handling
 - **💬 Discussions:** [GitHub Discussions](/Discussions.md)
 
 ## 📄 License
-This project is licensed under the MIT License - see the [GitHub LICENSE](/LICENSE) file for details.
+This project is licensed under the MIT License - see the [GitHub LICENSE](/LICENSE.md) file for details.
 
 
 <div align="center">
