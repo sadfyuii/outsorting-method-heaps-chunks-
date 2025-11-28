@@ -91,3 +91,13 @@ numpy >= 1.21.0        # Numerical computations and array handling
 - **🐛 Bugs and Suggestions:** [GitHub Issues](/Issues)
 - **💬 Discussions:** [GitHub Discussions](/Discussions)
 
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+<div align="center">
+⭐ If you find this project helpful, please give it a star! ⭐
+
+Built with ❤️ for the developer and student community
+
+</div> ```
+
