@@ -23,8 +23,9 @@ The External Sort Visualizer is an educational project that visually demonstrate
 git clone https://github.com/sadfyuii/outsorting-method-heaps-chunks-.git
 cd outsorting-method-heaps-chunks-
 
+pip install -r requirements.txt
 bash
 pip install -r requirements.txt
-
 bash
 python outsort.py
+
