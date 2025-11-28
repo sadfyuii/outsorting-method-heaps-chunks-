@@ -13,6 +13,16 @@ The **External Sort Visualizer** is an interactive educational tool designed to 
 - **🏗️ Min-Heap Operations** - Visualize heap construction and maintenance throughout the process
 - **📊 Performance Metrics** - Track algorithm efficiency and step-by-step progress
 
+### 🔧 Technical Stack
+💻 Core Technologies
+Language: Python 3.8+
+
+Visualization: Matplotlib
+
+Data Processing: NumPy
+
+Algorithm: Custom heap-based external sort
+
 ## 🚀 Installation and Launch
 
 ### 🛠️ Requirements
