@@ -1,5 +1,3 @@
-# 🏗️ Project Architecture
-
 ## 📁 Repository Structure
 
 **outsorting-method-heaps-chunks**/
