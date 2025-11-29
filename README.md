@@ -49,7 +49,36 @@ Visualization: **Matplotlib**
 
 Data Processing: **NumPy**
 
-Algorithm: **Custom heap-based external sort**
+### Algorithm: **Custom heap-based external sort**
+
+## 1. Division into chunks:
+```
+chunk = data[i:i + chunk_size]
+chunk.sort()
+- We cut the data into parts and sort each part separately
+```
+
+## 2. Initializing the heap:
+```
+heapq.heappush(heap, (val, i))
+- We take the first element from each chunk and put it in the min-pile
+- We store (value, number_chank)
+```
+## 3. The main merge loop:
+```
+value, chunk_idx = heapq.heappop(heap) # Get the minimum
+merged.append(value) # Add to the result
+next_val = next(iterators[chunk_idx]) # Get the next one from the same chunk
+heapq.heappush(heap, (next_val, chunk_idx)) # Put it in the heap
+```
+## How it works:
+```
+- There is always one "representative" from each chunk in the heap
+- Always take the smallest element
+- "Push" the next element from the same chunk
+- Repeat until all the chunks are exhausted
+```
+Complexity: O(N log K), where N is the total number of elements and K is the number of chunks
 
 ## 🔄 Algorithm of Operation
 
